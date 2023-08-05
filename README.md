@@ -5,3 +5,4 @@ They can also use features like lookalike audiences and custom audiences to reac
 Snapchat's ad targeting options aim to make advertising campaigns more effective by reaching the right users who are likely to be interested in the products or services being promoted.
 Here I try to visualise this
 ![page 1 snapchat ads dashboard](https://github.com/07adarsh/Targeting-ads-by-snapchat/assets/141519650/62b7cc46-ec64-4614-abd8-2fffb1bca462)
+![page 2 snapchat ads dashboard](https://github.com/07adarsh/Targeting-ads-by-snapchat/assets/141519650/b69fbb32-1265-456c-bc8b-316f615a4c92)
